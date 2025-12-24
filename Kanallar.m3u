@@ -1,0 +1,19 @@
+﻿#EXTM3U
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://i.imgur.com/HyVUwFC.png",﻿ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://i.postimg.cc/x8NcRnDn/kanald.png",﻿Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://i.imgur.com/9O3DHRB.png",﻿Star TV
+
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png",﻿TV 8
+
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://pbs.twimg.com/profile_images/803754191898480640/M27HNfOg_400x400.jpg",﻿A2
+
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://i.imgur.com/1l7SCCu.png",﻿Show TV
+
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://i.imgur.com/5EYjWK7.png",﻿NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png",﻿TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://i.imgur.com/uykIdML.png",﻿Beyaz TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
