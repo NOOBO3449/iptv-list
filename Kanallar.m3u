@@ -17,3 +17,9 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://i.imgur.com/uykIdML.png",﻿Beyaz TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1,beINSports-fr1
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1,beINSports-fr2
+http://iptv.am000.tv:8000/live/add17/add17/17.ts
+#EXTINF:-1,BEINSPORTS-FR3
+http://iptv.am000.tv:8000/live/add17/add17/566.ts
