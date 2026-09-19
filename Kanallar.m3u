@@ -17,41 +17,54 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1  group-title="﻿general" tvg-logo="﻿https://i.imgur.com/uykIdML.png",﻿Beyaz TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
-#EXTINF:-1,beINSports-fr1
-http://iptv.am000.tv:8000/live/add17/add17/16.ts
-#EXTINF:-1,beINSports-fr2
-http://iptv.am000.tv:8000/live/add17/add17/17.ts
-#EXTINF:-1,BEINSPORTS-FR3
-http://iptv.am000.tv:8000/live/add17/add17/566.ts
-#EXTINF:-1,BeinSport-Sd1
-http://iptv.am000.tv:8000/live/add17/add17/293.ts
-#EXTINF:-1,BeinSport-Sd2
-http://iptv.am000.tv:8000/live/add17/add17/294.ts
-#EXTINF:-1,BeinSport-Sd3
-http://iptv.am000.tv:8000/live/add17/add17/295.ts
-#EXTINF:-1,BeinSport-Sd4
-http://iptv.am000.tv:8000/live/add17/add17/296.ts
-#EXTINF:-1,BeinSport-Sd5
-http://iptv.am000.tv:8000/live/add17/add17/297.ts
-#EXTINF:-1,BeinSport-Sd6
-http://iptv.am000.tv:8000/live/add17/add17/298.ts
-#EXTINF:-1,BeinSport-Sd7
-http://iptv.am000.tv:8000/live/add17/add17/299.ts
-#EXTINF:-1,BeinSport-Sd8
-http://iptv.am000.tv:8000/live/add17/add17/300.ts
-#EXTINF:-1,BeinSport-Sd9
-http://iptv.am000.tv:8000/live/add17/add17/301.ts
-#EXTINF:-1,BeinSport-Sd10
-http://iptv.am000.tv:8000/live/add17/add17/302.ts
-#EXTINF:-1,EN:BeinSport-11
-http://iptv.am000.tv:8000/live/add17/add17/575.ts
-#EXTINF:-1,EN:BeinSport-12
-http://iptv.am000.tv:8000/live/add17/add17/577.ts
-#EXTINF:-1,FR:BEINSPORT-13
-http://iptv.am000.tv:8000/live/add17/add17/632.ts
-#EXTINF:-1,FR:BEINSPORT-14
-http://iptv.am000.tv:8000/live/add17/add17/633.ts
-#EXTINF:-1,FR:BEINSPORT-15
-http://iptv.am000.tv:8000/live/add17/add17/634.ts
-#EXTINF:-1,FR:BEINSPORT-16
-http://iptv.am000.tv:8000/live/add17/add17/635.ts
+#EXTINF:0, BEINSPORT 1 FR
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/128.ts
+
+#EXTINF:0, BEINSPORT 1 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/131.ts
+
+#EXTINF:0, BEINSPORT 2 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/132.ts
+
+#EXTINF:0, BEINSPORT 2 FR
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/129.ts
+
+#EXTINF:0, BEINSPORT 3 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/133.ts
+
+#EXTINF:0, BEINSPORT 3 FR
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/130.ts
+
+#EXTINF:0, BEINSPORT 5 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/134.ts
+
+#EXTINF:0, BEINSPORT 6 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/135.ts
+
+#EXTINF:0, BEINSPORT 7 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/136.ts
+
+#EXTINF:0, BEINSPORT 8 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/137.ts
+
+#EXTINF:0, BEINSPORT 9 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/138.ts
+
+#EXTINF:0, BEINSPORT 10 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/139.ts
+
+#EXTINF:0, BEINSPORT 11 HD
+
+http://gold.sarimedia.tv:8000/live/colmar/colmar/140.ts
